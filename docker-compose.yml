@@ -6,6 +6,7 @@ services:
     ports:
       - 5000:5000
   chocolate-mint-client:
+    tty: true
     build: ./client
     ports:
       - 4000:4000
