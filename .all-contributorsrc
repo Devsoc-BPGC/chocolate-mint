@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ritvij14",
+      "name": "Ritvij Kumar Sharma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/51456744?v=4",
+      "profile": "https://linktr.ee/ritvij14",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "chocolate-mint",
+  "projectOwner": "Devsoc-BPGC",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
