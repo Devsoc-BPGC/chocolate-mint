@@ -93,9 +93,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+     
+    <td align="center"><a href="https://github.com/arpitbhardwaj24"><img src="https://avatars1.githubusercontent.com/u/42579371?v=4" width="100px;" alt=""/><br /><sub><b>Arpit Bhardwaj</b></sub></a><br /><a href="#maintenance-arpitbhardwaj24" title="Maintenance">🚧</a></td>
      <td align="center"><a href="https://snigdha.tiwari.gitlab.io/first-website/"><img src="https://avatars1.githubusercontent.com/u/55022439?v=4" width="100px;" alt=""/><br /><sub><b>snigdha2210</b></sub></a><br /><a href="#maintenance-snigdha2210" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://linktr.ee/ritvij14"><img src="https://avatars2.githubusercontent.com/u/51456744?v=4" width="100px;" alt=""/><br /><sub><b>Ritvij Kumar Sharma</b></sub></a><br /><a href="#maintenance-ritvij14" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/arpitbhardwaj24"><img src="https://avatars1.githubusercontent.com/u/42579371?v=4" width="100px;" alt=""/><br /><sub><b>Arpit Bhardwaj</b></sub></a><br /><a href="#maintenance-arpitbhardwaj24" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
