@@ -1,6 +1,6 @@
 <img width="100" alt="portfolio_view" src="https://devsoc.club/assets/img/logo.png">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # CHOCOLATE MINT BY DEVSOC
@@ -94,6 +94,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://linktr.ee/ritvij14"><img src="https://avatars2.githubusercontent.com/u/51456744?v=4" width="100px;" alt=""/><br /><sub><b>Ritvij Kumar Sharma</b></sub></a><br /><a href="#maintenance-ritvij14" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://snigdha.tiwari.gitlab.io/first-website/"><img src="https://avatars1.githubusercontent.com/u/55022439?v=4" width="100px;" alt=""/><br /><sub><b>snigdha2210</b></sub></a><br /><a href="#maintenance-snigdha2210" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
