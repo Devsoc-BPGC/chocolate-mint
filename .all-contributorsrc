@@ -5,6 +5,15 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
+  {
+      "login": "arpitbhardwaj24",
+      "name": "Arpit Bhardwaj",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42579371?v=4",
+      "profile": "https://github.com/arpitbhardwaj24"
+      "contributions": [
+        "maintenance"
+      ]
+    },
     {
       "login": "ritvij14",
       "name": "Ritvij Kumar Sharma",
